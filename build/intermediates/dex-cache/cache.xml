@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\libs\AMap_Search_V3.6.0_20161110.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5b8b9268160639762bb1f6f4eceea1c5122dc770">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V3.6.0_20161110_9986112bae8dbbd90361c29f01fb95cc9d9e9f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\libs\Android_Map3D_SDK_V4.1.2_20161104.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02f1fa1d79c716b42336b4874e024c075a4930d0">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Map3D_SDK_V4.1.2_20161104_5cded37af36dd42a4273d3d68b56ed6549469f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_db6e3ed0fc2ad8b74c3678d78b95d9a95fab1ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_f5fd29a7d39d3156f23ba3075b37dc7ee7dc4308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6d24d338ba06acf9ed1db5e54bfabcab2a48925b">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a025eb76cf01151b5832c417d703e3fa8e7a4d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\libs\AMap_Location_V3.1.0_20161027.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd57103bd88f0f9ae21c8531cc18c6dce172cc2a">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.1.0_20161027_9b8d7c34577318fb8999337ef673bc9a9fc32eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f09dd791f8ff0e1be28b071f5a9abc5d1004f532">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2d4e07c1bbfe2aad8f66bfd9f9884cae944db8e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="C:\Users\Administrator\Desktop\gaode\AMap_Android_SDK_All\AMap_Android_Doc&amp;Demo\AndroidStudio\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_52aa8258d90dd910ed10de061d8de3b8053187c9\classes.dex" />
+    </item>
+
+</items>
